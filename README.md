@@ -23,19 +23,25 @@ Always eager to collaborate on innovative testing solutions and improve software
 </div>
 
 <hr/> 
+
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,vscode,cypress,gherkin,git,github,githubactions,jenkins,bash,docker,grafana,graphql,jquery,nextjs,figma,mysql,postgres,postman,pycharm,py,regex,selenium&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,html,css,vscode,cypress,gherkin,git,github,githubactions,jenkins,bash,docker,grafana,graphql" />
+    <img src="https://skillicons.dev/icons?i=jquery,nextjs,figma,mysql,postgres,postman,pycharm,py,regex" />
     <br>
-        <img height="48" src="badges/selenoid-ico.png" />
-        <img height="48" src="badges/robot-framework.png" />
-        <img height="48" src="badges/cypress.jpeg" />
-        <img height="48" src="badges/browserstack.png" />
-        <img height="48" src="badges/pytest_logo.png" />
-        <img height="48" src="badges/jmeter.png" />
+    <img height="48" src="badges/selenoid-ico.png" />
+    <img height="48" src="badges/robot-framework.png" />
+    <img height="48" src="badges/cypress.jpeg" />
+    <img height="48" src="badges/browserstack.png" />
+    <img height="48" src="badges/pytest_logo.png" />
+    <img height="48" src="badges/jmeter.png" />
 </div>
+
 <br/>
+
 <hr/>
 
 <div align="center">
@@ -47,3 +53,4 @@ Always eager to collaborate on innovative testing solutions and improve software
 </div>
 
 <hr/>
+
