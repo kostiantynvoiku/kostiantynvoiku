@@ -4,10 +4,9 @@
 <div align="left">
 I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and ensuring software quality. I love diving deep into test automation frameworks and tools to streamline testing. Always eager to collaborate on innovative testing solutions and improve software quality.
 </div>
- <br/> 
+<hr/> 
  
  <h2 align="center">  🙋🏻‍♂️ About me  </h2>
-<br/>
  <div align="left">
 
 🔭 **I am currently involved** in developing and implementing test infrastructure for a project related to a marketplace for services.
