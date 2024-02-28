@@ -1,10 +1,13 @@
 
-<h2 align="center"> Hi there 👋 </h2>
+<h2 align="center"> 👋 Hi there  </h2>
 <br/>
 <div align="left">
 I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and ensuring software quality. I love diving deep into test automation frameworks and tools to streamline testing. Always eager to collaborate on innovative testing solutions and improve software quality.
 </div>
  <br/> 
+ 
+ <h2 align="center">  🙋🏻‍♂️ About me  </h2>
+<br/>
  <div align="left">
 
 🔭 **I am currently involved** in developing and implementing test infrastructure for a project related to a marketplace for services.
@@ -29,7 +32,7 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
 
 <hr/> 
 
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages | Frameworks | Tools</h2>
 
 <br/>
 
@@ -50,7 +53,7 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kostiantyn-voiku/kostiantyn-voiku/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -58,7 +61,7 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats </h2>
 <br>
 <div align=center>
   <img height=200 width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostiantynvoiku&layout=compact&count_private=true&hide=HTML,CSS&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
