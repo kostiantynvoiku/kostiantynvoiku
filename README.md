@@ -5,23 +5,15 @@
 I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and ensuring software quality. I love diving deep into test automation frameworks and tools to streamline testing. Always eager to collaborate on innovative testing solutions and improve software quality.
 </div>
  <br/> 
-<ul>
-  <li>
-    <strong>🔭 I am currently involved</strong> in developing and implementing test infrastructure for a project related to a marketplace for services.
-  </li>
-  <li>
-    <strong>👯 I’m looking to collaborate</strong> on testing frameworks and test development.
-  </li>
-  <li>
-    <strong>💬 Ask me anything about</strong> Quality Assurance and Testing.
-  </li>
-  <li>
-    <strong>⚡ Fun fact:</strong> I am passionate about birdwatching, guitar playing, and extreme metal genres.
-  </li>
-  <li>
-    <strong>📫 How to reach me:</strong>
-  </li>
-</ul>
+ <div align="left">
+
+🔭 **I am currently involved** in developing and implementing test infrastructure for a project related to a marketplace for services.
+<br>👯 **I’m looking to collaborate** on testing frameworks and test development.
+<br>💬 **Ask me anything about** Quality Assurance and Testing.
+<br>⚡ **Fun fact:** I am passionate about birdwatching, guitar playing, and extreme metal genres.
+<br>📫 **How to reach me:**
+ </div>
+
 
 <div align="center">
   <a href="mailto:kostiantyn.voiku@gmail.com">
