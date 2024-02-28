@@ -16,7 +16,7 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
   <a href="https://www.linkedin.com/in/kostiantynvoiku/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/kostiantyn-voiku" target="_blank">
+  <a href="https://github.com/kostiantynvoiku" target="_blank">
      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github" target="_blank" /> 
   </a>
 </div>
@@ -52,18 +52,13 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
 
 <hr/>
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kostiantynvoiku&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kostiantynvoiku&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /
-
+  <img height=200 width=390 src="https://streak-stats.demolab.com/?user=kostiantynvoiku&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img height=200 width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostiantynvoiku&layout=compact&count_private=true&hide=HTML,CSS&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /
 </div>
-
-<br/><br/>
+<br/>
 
 <hr/>
 
-<br/>
