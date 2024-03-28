@@ -36,7 +36,7 @@ I'm Kostiantyn Voiku, a QA automation enthusiast passionate about testing and en
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,vscode,cypress,gherkin,git,github,githubactions,jenkins,bash,docker,grafana,graphql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,cypress,gherkin,git,github,githubactions,jenkins,bash,docker,grafana,graphql" />
     <img src="https://skillicons.dev/icons?i=jquery,nextjs,figma,mysql,postgres,postman,pycharm,py,regex" />
     <br>
     <img height=48 src="badges/selenoid-ico.png" />
